@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://thumbs.gfycat.com/AfraidSlipperyAmethystgemclam-size_restricted.gif" alt="I like Star Wars">
+
 - 🔭 I’m currently researching on Machine Learning and Cyber Security
 - 🌱 I’m currently preparing for OSCP-PWK
 - 👯 I’m looking to collaborate on Cyber Security
@@ -11,3 +13,4 @@
 
 ### My TryHackMe stats
 <img src="https://tryhackme-badges.s3.amazonaws.com/alpharomeo911.png" alt="TryHackMe">
+
