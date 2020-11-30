@@ -13,7 +13,3 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm probably on my computer
 
-### My TryHackMe stats
-![Stats](https://tryhackme-badges.s3.amazonaws.com/alpharomeo911.png)
-<img src="https://tryhackme-badges.s3.amazonaws.com/alpharomeo911.png" alt="TryHackMe">
-
