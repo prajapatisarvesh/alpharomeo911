@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://thumbs.gfycat.com/AfraidSlipperyAmethystgemclam-size_restricted.gif" alt="I like Star Wars">
+#### May the force be with you
+
+<img src="https://thumbs.gfycat.com/AfraidSlipperyAmethystgemclam-size_restricted.gif" alt="May the force be with you">
 
 - 🔭 I’m currently researching on Machine Learning and Cyber Security
 - 🌱 I’m currently preparing for OSCP-PWK
@@ -12,5 +14,6 @@
 - ⚡ Fun fact: I'm probably on my computer
 
 ### My TryHackMe stats
+![Stats](https://tryhackme-badges.s3.amazonaws.com/alpharomeo911.png)
 <img src="https://tryhackme-badges.s3.amazonaws.com/alpharomeo911.png" alt="TryHackMe">
 
