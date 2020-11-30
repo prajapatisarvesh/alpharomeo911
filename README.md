@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 #### May the force be with you
 
