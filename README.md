@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently researching on Machine Learning and Cyber Security
 - 🌱 I’m currently preparing for OSCP-PWK
-- 👯 I’m looking to collaborate on Cyber Security
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on Cyber Security, CTFs
+- 🤔 I’m looking for help with music theory
 - 💬 Ask me about  anything related to computers
 - 📫 How to reach me: ***Will add it soon***
 - 😄 Pronouns: He
