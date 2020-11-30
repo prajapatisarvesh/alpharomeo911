@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Cyber Security, CTFs
 - 🤔 I’m looking for help with music theory
 - 💬 Ask me about  anything related to computers
-- 📫 How to reach me: ***Will add it soon***
+- 📫 How to reach me: [Linkedin - @alpharomeo911](https://www.linkedin.com/in/alpharomeo911/) , [Twitter - @a1ph4r0me0911](https://twitter.com/a1ph4r0me0911)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm probably on my computer
 
