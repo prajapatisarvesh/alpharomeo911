@@ -9,4 +9,5 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm probably on my computer
 
-<script src="https://tryhackme.com/badge/208060"></script>
+### My TryHackMe stats
+<img src="https://tryhackme-badges.s3.amazonaws.com/alpharomeo911.png" alt="TryHackMe">
